@@ -1,0 +1,57 @@
+{ "table":[
+    {
+      "id": "1",
+      "name": "Elizabeth Lee",
+      "company": "AvatarSystems",
+      "value": "$359",
+      "date": "10/07/2023",
+      "status": "New",
+      "avatar": "Avatar.png"
+    },
+    {
+      "id": "2",
+      "name": "Carlos Garcia",
+      "company": "SmoozeShift",
+      "value": "$747",
+      "date": "24/07/2023",
+      "status": "New",
+      "avatar": "Avatar (1).png"
+    },
+    {
+      "id": "3",
+      "name": "Elizabeth Bailey",
+      "company": "Prime Time Telecom",
+      "value": "$564",
+      "date": "08/08/2023",
+      "status": "In-progress",
+      "avatar": "Avatar (2).png"
+    },
+    {
+      "id": "4",
+      "name": "Ryan Brown",
+      "company": "OmniTech Corporation",
+      "value": "$541",
+      "date": "31/08/2023",
+      "status": "In-progress",
+      "avatar": "Avatar (3).png"
+    },
+    {
+      "id": "5",
+      "name": "Ryan Young",
+      "company": "DataStream Inc.",
+      "value": "$769",
+      "date": "01/05/2023",
+      "status": "Completed",
+      "avatar": "Avatar (4).png"
+    },
+    {
+      "id": "6",
+      "name": "Hailey Adams",
+      "company": "FlowRush",
+      "value": "$922",
+      "date": "10/06/2023",
+      "status": "Completed",
+      "avatar": "Avatar (5).png"
+    }
+    
+  ]}
