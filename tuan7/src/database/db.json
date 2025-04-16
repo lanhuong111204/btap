@@ -3,20 +3,21 @@
       "title": "Turnover",
       "data": "$92,405",
       "period": "5.39% period of change",
-      "img": "logo_cart.png",
+      "img": "logo_cart",
       "id": "1"
     },
     {
       "title": "Profit",
       "data": "$32,218",
       "period": "5.39% period of change",
-      "img": "logo_$.png",
+      "img": "logo_$",
       "id": "2"
     },
     {
       "title": "New customer",
       "data": "298",
       "period": "6.84% period of change",
-      "img": "Logo_user.png",      "id": "3"
+      "img": "logo_user",    
+        "id": "3"
     }
 ]}

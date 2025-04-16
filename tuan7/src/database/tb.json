@@ -6,7 +6,7 @@
       "value": "$359",
       "date": "10/07/2023",
       "status": "New",
-      "avatar": "Avatar.png"
+      "avatar": "avatar"
     },
     {
       "id": "2",
@@ -15,7 +15,7 @@
       "value": "$747",
       "date": "24/07/2023",
       "status": "New",
-      "avatar": "Avatar (1).png"
+      "avatar": "avatar1"
     },
     {
       "id": "3",
@@ -24,7 +24,7 @@
       "value": "$564",
       "date": "08/08/2023",
       "status": "In-progress",
-      "avatar": "Avatar (2).png"
+      "avatar": "avatar2"
     },
     {
       "id": "4",
@@ -33,7 +33,7 @@
       "value": "$541",
       "date": "31/08/2023",
       "status": "In-progress",
-      "avatar": "Avatar (3).png"
+      "avatar": "avatar3"
     },
     {
       "id": "5",
@@ -42,7 +42,7 @@
       "value": "$769",
       "date": "01/05/2023",
       "status": "Completed",
-      "avatar": "Avatar (4).png"
+      "avatar": "avatar4"
     },
     {
       "id": "6",
@@ -51,7 +51,7 @@
       "value": "$922",
       "date": "10/06/2023",
       "status": "Completed",
-      "avatar": "Avatar (5).png"
+      "avatar": "avatar5"
     }
     
   ]}
