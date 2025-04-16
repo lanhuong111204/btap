@@ -30,6 +30,8 @@ const Table = () => {
       .then((data) => setInfoData(data))
       .catch((error) => console.error("Lỗi khi tải dữ liệu:", error));
   }, []);
+    console.log("infodata: ", infoData);
+    
 
   const avatarMap = {
     avatar: <img src={Avatar} alt="" className="w-8 h-8 rounded-full" />,
