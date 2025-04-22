@@ -1,23 +1,17 @@
-import React from 'react';
-import { useSelector, useDispatch } from 'react-redux';
-import { increment, decrement, reset } from './redux/counterSlice';
+import CounterRedux from './components/CounterRedux';
+import CounterLocal from './components/CounterLocal';
+import { CounterProvider } from './context/CounterContext';
 
-function App() {
-  const count = useSelector(state => state.counter.value);
-  const dispatch = useDispatch();
-
+export default function App() {
   return (
-    <div style={{ textAlign: 'center', marginTop: '50px' }}>
-      <h1>Counter App with Redux</h1>
-      <h2>{count}</h2>
-      <div>
-        <button onClick={() => dispatch(increment())}>+</button>
-        <button onClick={() => dispatch(decrement())}>-</button>
-        <button onClick={() => dispatch(reset())}>Reset</button>
-      </div>
+    <div className="p-8 space-y-6 text-center">
+      <h1>Counter App (Redux + useReducer)</h1>
+      <CounterProvider>
+        <CounterLocal />
+      </CounterProvider>
+      <CounterRedux />
     </div>
   );
 }
 
-export default App;
 
